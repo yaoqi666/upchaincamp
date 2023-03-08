@@ -5,7 +5,7 @@ contract Counter {
     uint256 public counter;
     // 默认值
     uint256 private init;
-
+    // Log事件
     event Log(string funName, address from, uint256 value, bytes data);
 
     // 传入初始值
