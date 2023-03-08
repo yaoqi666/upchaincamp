@@ -16,9 +16,7 @@ contract Counter {
 
     // 传入值与counter相加并复制给counter
     function add(uint256 x) public {
-        // require((counter + x) <= type(uint256).max, unicode"相加后超过最大值");
         require((type(uint256).max - counter) > x, unicode"相加后超过最大值");
-
         counter += x;
     }
 
