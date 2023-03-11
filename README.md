@@ -1,2 +1,2 @@
 # upchaincamp
-登链集训作业
+作业
