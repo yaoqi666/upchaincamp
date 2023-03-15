@@ -1,13 +1,26 @@
-# Sample Hardhat Project
+通过Hardhat部署合约：
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+sepolia交易哈希：0xd7a23acb0c12e0999abc986d6838bcb4dd9c9892ddf26cadd8e9d81ea45bc379
 
-Try running some of the following tasks:
+goerli交易哈希：0xf9bc7e08138b23800c3897ee949ae9cd196dfc91c8adb4fc162fdec638575c69
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+sepolia测试网合约地址：https://sepolia.etherscan.io/address/0x8A96937304F2FfDBA6Fa4BDe7B760814c18902fE#code 
+
+goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8dBe6e65C1f543D7e4C45b3A651400#code
+
+
+
+通过MetaMask给合约转账：
+
+![b12b9d6615b0baae0a9e4a73fe02df4](b12b9d6615b0baae0a9e4a73fe02df4.png) 
+
+事件说明：
+
+1. 调用的函数： receive
+2. 来自谁的转账：0x8B5B88cC81439CbB14eF9017AbC9F7E62635fb31
+3. 金额：1000000000000000 wei
+4. 数据：空
+
+![2edd467cb6107910ced925c76e7b170](2edd467cb6107910ced925c76e7b170.png)
+
+ 
