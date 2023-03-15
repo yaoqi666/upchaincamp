@@ -12,7 +12,7 @@ goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8d
 
 通过MetaMask给合约转账：
 
-![b12b9d6615b0baae0a9e4a73fe02df4](b12b9d6615b0baae0a9e4a73fe02df4.png) 
+![b12b9d6615b0baae0a9e4a73fe02df4](./img/b12b9d6615b0baae0a9e4a73fe02df4.png) 
 
 事件说明：
 
@@ -21,6 +21,6 @@ goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8d
 3. 金额：1000000000000000 wei
 4. 数据：空
 
-![2edd467cb6107910ced925c76e7b170](2edd467cb6107910ced925c76e7b170.png)
+![2edd467cb6107910ced925c76e7b170](./img/2edd467cb6107910ced925c76e7b170.png)
 
  
