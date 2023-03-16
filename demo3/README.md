@@ -17,11 +17,11 @@ goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8d
 
 合约金额：
 
-![8ec8568c29f6b1bc273ff2e774f9a34](8ec8568c29f6b1bc273ff2e774f9a34.png) 
+![8ec8568c29f6b1bc273ff2e774f9a34](./img/8ec8568c29f6b1bc273ff2e774f9a34.png) 
 
 ## 测试
 
-![66b36a18060b5e844467b4ca664af29](66b36a18060b5e844467b4ca664af29.png) 
+![66b36a18060b5e844467b4ca664af29](./img/66b36a18060b5e844467b4ca664af29.png) 
 
 第一个进行了转账并显示所有.
 
