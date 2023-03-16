@@ -1,4 +1,4 @@
-## 通过Hardhat部署合约：
+通过Hardhat部署合约：
 
 sepolia交易哈希：0xd7a23acb0c12e0999abc986d6838bcb4dd9c9892ddf26cadd8e9d81ea45bc379
 
@@ -8,24 +8,19 @@ sepolia测试网合约地址：https://sepolia.etherscan.io/address/0x8A96937304
 
 goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8dBe6e65C1f543D7e4C45b3A651400#code
 
-## 通过MetaMask给合约转账：
 
+
+通过MetaMask给合约转账：
 交易哈希：0x4f1785d5dee34583b7dba6eaf8252e06e9e31b79c491a13dc1853818812a87b6
-![b12b9d6615b0baae0a9e4a73fe02df4](./img/b12b9d6615b0baae0a9e4a73fe02df4-16789325958111.png) 
+![b12b9d6615b0baae0a9e4a73fe02df4](./img/b12b9d6615b0baae0a9e4a73fe02df4.png) 
 
-当前合约的余额
-
-![8ec8568c29f6b1bc273ff2e774f9a34](./img/8ec8568c29f6b1bc273ff2e774f9a34.png) 
-
-
-
-## 事件说明：
+事件说明：
 
 1. 调用的函数： receive
 2. 来自谁的转账：0x8B5B88cC81439CbB14eF9017AbC9F7E62635fb31
 3. 金额：1000000000000000 wei
 4. 数据：空
 
-![2edd467cb6107910ced925c76e7b170](./img/2edd467cb6107910ced925c76e7b170-16789325958122.png)
+![2edd467cb6107910ced925c76e7b170](./img/2edd467cb6107910ced925c76e7b170.png)
 
-  
+ 
