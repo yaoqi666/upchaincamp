@@ -11,7 +11,7 @@ goerli测试网合约地址：https://goerli.etherscan.io/address/0x72f50a2E4D8d
 
 
 通过MetaMask给合约转账：
-
+交易哈希：0x4f1785d5dee34583b7dba6eaf8252e06e9e31b79c491a13dc1853818812a87b6
 ![b12b9d6615b0baae0a9e4a73fe02df4](./img/b12b9d6615b0baae0a9e4a73fe02df4.png) 
 
 事件说明：
